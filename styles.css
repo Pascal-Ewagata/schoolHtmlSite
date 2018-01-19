@@ -1,0 +1,111 @@
+body{
+	background: url(../../../via/afk3.jpg);
+	margin: 0;
+	padding: 0;
+	font-family: cursive, fantasy, monospace;
+	background-size: cover;
+}
+.main_container{
+	width: 100%;
+	margin: auto;
+}
+.showroom{
+	min-height: 400px;
+	text-align: center;
+	background: url("../../../via/afk7.jpg");
+	background-size: cover;
+	color: white;
+	
+}
+.header{
+	min-height: 80px;
+	background: url(../../../via/afk6.jpg);
+	color:white;
+	background-size: cover;
+	padding-top: 10px;
+	padding-bottom: 580px;
+	border-bottom: 4px solid black;
+	
+}
+.nav a{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+.nav li{
+	list-style: none;
+	float: left;
+	display: inline;
+	padding: 0px 15px 0px 15px;
+	margin-top: 10px;
+}
+.branding_txt{
+	float: left;
+}
+.nav{
+	float: right;
+}
+.nav a:hover{
+	color: yellow;
+	font-weight: bold;
+}
+.showroom{
+	padding-bottom: 280px;
+	border-bottom: solid 4px black;
+	
+}
+.boxes{
+	margin-top: 0px;
+	display: block;
+	padding-top: 50px;
+	
+	
+}
+.box{
+	width: 30%;
+	float: right;
+	padding: 10px;
+	text-align: center;
+}
+.box img{
+	width: 300px;
+	padding-top: 0px;
+}
+.footer{
+	background: url(../../../via/afk1.jpg);
+	padding: 0px 0px 50px 0px;
+	clear: both;
+	text-align: center;
+	border-top: 4px solid black;
+	
+}
+span{
+	
+	background: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
